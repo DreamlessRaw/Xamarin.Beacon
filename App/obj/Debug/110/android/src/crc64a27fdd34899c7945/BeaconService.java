@@ -14,7 +14,7 @@ public class BeaconService
 			"n_onBind:(Landroid/content/Intent;)Landroid/os/IBinder;:GetOnBind_Landroid_content_Intent_Handler\n" +
 			"n_onCreate:()V:GetOnCreateHandler\n" +
 			"n_onDestroy:()V:GetOnDestroyHandler\n" +
-			"n_device:(Lcom/fissoft/beacon/Beacon;)V:GetDevice_Lcom_fissoft_beacon_Beacon_Handler:Com.Fissoft.Beacon.IBeaconInvoker, Beacon\n" +
+			"n_device:(Lcom/fissoft/beacon/Beacon;)V:GetDevice_Lcom_fissoft_beacon_Beacon_Handler:Com.Fissoft.Beacon.IBeaconInvoker, Xamarin.Beacon\n" +
 			"";
 		mono.android.Runtime.register ("App.BeaconService, App", BeaconService.class, __md_methods);
 	}

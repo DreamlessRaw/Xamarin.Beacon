@@ -68801,23 +68801,23 @@
 	.section	.rodata.managed_type_name.5028,"aMS",%progbits,1
 	.type	.L.managed_type_name.5028, %object
 .L.managed_type_name.5028:
-	.asciz	"Com.Fissoft.Beacon.Beacon, Beacon"
-	.size	.L.managed_type_name.5028, 34
+	.asciz	"Com.Fissoft.Beacon.Beacon, Xamarin.Beacon"
+	.size	.L.managed_type_name.5028, 42
 	.section	.rodata.managed_type_name.5029,"aMS",%progbits,1
 	.type	.L.managed_type_name.5029, %object
 .L.managed_type_name.5029:
-	.asciz	"Com.Fissoft.Beacon.BeaconReceiver, Beacon"
-	.size	.L.managed_type_name.5029, 42
+	.asciz	"Com.Fissoft.Beacon.BeaconReceiver, Xamarin.Beacon"
+	.size	.L.managed_type_name.5029, 50
 	.section	.rodata.managed_type_name.5030,"aMS",%progbits,1
 	.type	.L.managed_type_name.5030, %object
 .L.managed_type_name.5030:
-	.asciz	"Com.Fissoft.Beacon.BuildConfig, Beacon"
-	.size	.L.managed_type_name.5030, 39
+	.asciz	"Com.Fissoft.Beacon.BuildConfig, Xamarin.Beacon"
+	.size	.L.managed_type_name.5030, 47
 	.section	.rodata.managed_type_name.5031,"aMS",%progbits,1
 	.type	.L.managed_type_name.5031, %object
 .L.managed_type_name.5031:
-	.asciz	"Com.Fissoft.Beacon.IBeaconInvoker, Beacon"
-	.size	.L.managed_type_name.5031, 42
+	.asciz	"Com.Fissoft.Beacon.IBeaconInvoker, Xamarin.Beacon"
+	.size	.L.managed_type_name.5031, 50
 	.section	.rodata.managed_type_name.5032,"aMS",%progbits,1
 	.type	.L.managed_type_name.5032, %object
 .L.managed_type_name.5032:

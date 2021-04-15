@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "nybZrE3trIM5EN5jXvPgKyYUNBNM3lhncQubSOSo2ddyL9H5GaU0KBML1AgkQKXUuslmFDsT0iCsZuUEz9zy0g==",
+  "dgSpecHash": "geY3oQvbcobfipNBVcltSxAAuZpa9tmzE1aNJFYPUYL7dV5GV9ai4wwMO+W59q+OYw/1Jd3oeSWSV5hyvDVa/A==",
   "success": true,
   "projectFilePath": "C:\\Users\\SanYu\\source\\repos\\Xamarin.Beacon\\App\\App.csproj",
   "expectedPackageFiles": [
@@ -44,6 +44,7 @@
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.vectordrawable.animated\\1.1.0.5\\xamarin.androidx.vectordrawable.animated.1.1.0.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.versionedparcelable\\1.1.1.5\\xamarin.androidx.versionedparcelable.1.1.1.5.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.viewpager\\1.0.0.5\\xamarin.androidx.viewpager.1.0.0.5.nupkg.sha512",
+    "C:\\Users\\SanYu\\.nuget\\packages\\xamarin.beacon\\1.0.0\\xamarin.beacon.1.0.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.google.android.material\\1.0.0.1\\xamarin.google.android.material.1.0.0.1.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.google.guava.listenablefuture\\1.0.0.2\\xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"

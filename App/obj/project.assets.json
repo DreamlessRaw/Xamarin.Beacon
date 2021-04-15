@@ -787,6 +787,15 @@
           "buildTransitive/monoandroid90/Xamarin.AndroidX.ViewPager.targets": {}
         }
       },
+      "Xamarin.Beacon/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/monoandroid11.0/Xamarin.Beacon.dll": {}
+        },
+        "runtime": {
+          "lib/monoandroid11.0/Xamarin.Beacon.dll": {}
+        }
+      },
       "Xamarin.Essentials/1.6.1": {
         "type": "package",
         "dependencies": {
@@ -1599,6 +1608,18 @@
         "xamarin.androidx.viewpager.nuspec"
       ]
     },
+    "Xamarin.Beacon/1.0.0": {
+      "sha512": "hUavQSvFEpTst87FbLWukFflaeOkLT8dp8jFqf44QpDwh+wzNaQ6gPrIDRjWc1LfKmJdFbPvXwsDcOfTTwjtVg==",
+      "type": "package",
+      "path": "xamarin.beacon/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/monoandroid11.0/Xamarin.Beacon.dll",
+        "xamarin.beacon.1.0.0.nupkg.sha512",
+        "xamarin.beacon.nuspec"
+      ]
+    },
     "Xamarin.Essentials/1.6.1": {
       "sha512": "gG1Bp4j4bpJQ0dp9MeBJQJ9c8xULauIlhc7Cx5Qw4J2K1c+4Glq5n+gkb9Pm0UA/CevXVqLK5ZXmZkuYI52FgA==",
       "type": "package",
@@ -1689,6 +1710,7 @@
   "projectFileDependencyGroups": {
     "MonoAndroid,Version=v11.0": [
       "Xamarin.AndroidX.AppCompat >= 1.2.0.5",
+      "Xamarin.Beacon >= 1.0.0",
       "Xamarin.Essentials >= 1.6.1",
       "Xamarin.Google.Android.Material >= 1.0.0.1"
     ]
@@ -1734,6 +1756,10 @@
           "Xamarin.AndroidX.AppCompat": {
             "target": "Package",
             "version": "[1.2.0.5, )"
+          },
+          "Xamarin.Beacon": {
+            "target": "Package",
+            "version": "[1.0.0, )"
           },
           "Xamarin.Essentials": {
             "target": "Package",

@@ -18,8 +18,6 @@ C:\Users\SanYu\source\repos\Xamarin.Beacon\App\bin\Debug\com.companyname.app.aab
 C:\Users\SanYu\source\repos\Xamarin.Beacon\App\bin\Debug\com.companyname.app-Signed.aab
 C:\Users\SanYu\source\repos\Xamarin.Beacon\App\bin\Debug\com.companyname.app-Signed.apk
 C:\Users\SanYu\source\repos\Xamarin.Beacon\App\bin\Debug\com.companyname.app-Signed.apk.idsig
-C:\Users\SanYu\source\repos\Xamarin.Beacon\App\bin\Debug\Beacon.dll
-C:\Users\SanYu\source\repos\Xamarin.Beacon\App\bin\Debug\Beacon.pdb
 C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\lp\39\jl\files.cache
 C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\lp\44\jl\files.cache
 C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\lp\50\jl\files.cache
@@ -28,7 +26,6 @@ C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\lp\61\jl\files.cach
 C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\lp\66\jl\files.cache
 C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\lp\68\jl\files.cache
 C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\lp\75\jl\files.cache
-C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\App.csproj.CopyComplete
 C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\App.dll
 C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\App.pdb
 C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\android\bin\com.companyname.app.apk
@@ -61,8 +58,6 @@ C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\uploadflags.txt
 C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\resolvedassemblies.hash
 C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\android\assets\App.dll
 C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\android\assets\App.pdb
-C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\android\assets\Beacon.dll
-C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\android\assets\Beacon.pdb
 C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\android\assets\Java.Interop.dll
 C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\android\assets\Mono.Android.dll
 C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\android\assets\Mono.Android.pdb
@@ -314,3 +309,5 @@ C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\stamp\_ConvertResou
 C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\App.csprojAssemblyReference.cache
+C:\Users\SanYu\source\repos\Xamarin.Beacon\App\obj\Debug\110\android\assets\Xamarin.Beacon.dll
