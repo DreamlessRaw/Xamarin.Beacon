@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>DreamlessRaw</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/DreamlessRaw/Xamarin.Beacon</projectUrl>
+    <iconUrl>https://github.com/DreamlessRaw/Xamarin.Beacon</iconUrl>
+    <description>蓝牙广播，返回距离</description>
+    <copyright>$copyright$</copyright>
+  </metadata>
+</package>

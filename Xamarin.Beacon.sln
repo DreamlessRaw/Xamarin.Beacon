@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Beacon", "Xamarin.Beacon\Xamarin.Beacon.csproj", "{54C54378-E908-4E78-810F-BEEAF435D60D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "App\App.csproj", "{786F55F8-DE0F-4327-8459-4F6262B916E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54C54378-E908-4E78-810F-BEEAF435D60D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54C54378-E908-4E78-810F-BEEAF435D60D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54C54378-E908-4E78-810F-BEEAF435D60D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54C54378-E908-4E78-810F-BEEAF435D60D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{786F55F8-DE0F-4327-8459-4F6262B916E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{786F55F8-DE0F-4327-8459-4F6262B916E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{786F55F8-DE0F-4327-8459-4F6262B916E5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{786F55F8-DE0F-4327-8459-4F6262B916E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{786F55F8-DE0F-4327-8459-4F6262B916E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{786F55F8-DE0F-4327-8459-4F6262B916E5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AAA5BEC-DDE5-4C4A-8232-8D4286B16835}
+	EndGlobalSection
+EndGlobal

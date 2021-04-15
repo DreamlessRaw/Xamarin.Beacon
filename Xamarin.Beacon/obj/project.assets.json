@@ -1,0 +1,63 @@
+{
+  "version": 3,
+  "targets": {
+    "MonoAndroid,Version=v11.0": {},
+    "MonoAndroid,Version=v11.0/win": {},
+    "MonoAndroid,Version=v11.0/win-x64": {},
+    "MonoAndroid,Version=v11.0/win-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "MonoAndroid,Version=v11.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\SanYu\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\SanYu\\source\\repos\\Xamarin.Beacon\\Xamarin.Beacon\\Xamarin.Beacon.csproj",
+      "projectName": "Xamarin.Beacon",
+      "projectPath": "C:\\Users\\SanYu\\source\\repos\\Xamarin.Beacon\\Xamarin.Beacon\\Xamarin.Beacon.csproj",
+      "packagesPath": "C:\\Users\\SanYu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SanYu\\source\\repos\\Xamarin.Beacon\\Xamarin.Beacon\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\SanYu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "monoandroid11.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "monoandroid11.0": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "monoandroid11.0": {}
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

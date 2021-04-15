@@ -1,0 +1,9 @@
+C:\Users\SanYu\source\repos\Xamarin.Beacon\Xamarin.Beacon\bin\Debug\Jars\beacon.jar
+C:\Users\SanYu\source\repos\Xamarin.Beacon\Xamarin.Beacon\bin\Debug\Xamarin.Beacon.dll
+C:\Users\SanYu\source\repos\Xamarin.Beacon\Xamarin.Beacon\bin\Debug\Xamarin.Beacon.pdb
+C:\Users\SanYu\source\repos\Xamarin.Beacon\Xamarin.Beacon\obj\Debug\MonoAndroid,Version=v11.0.AssemblyAttributes.cs
+C:\Users\SanYu\source\repos\Xamarin.Beacon\Xamarin.Beacon\obj\Debug\Xamarin.Beacon.csprojAssemblyReference.cache
+C:\Users\SanYu\source\repos\Xamarin.Beacon\Xamarin.Beacon\obj\Debug\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\SanYu\source\repos\Xamarin.Beacon\Xamarin.Beacon\obj\Debug\Xamarin.Beacon.csproj.CoreCompileInputs.cache
+C:\Users\SanYu\source\repos\Xamarin.Beacon\Xamarin.Beacon\obj\Debug\Xamarin.Beacon.dll
+C:\Users\SanYu\source\repos\Xamarin.Beacon\Xamarin.Beacon\obj\Debug\Xamarin.Beacon.pdb
